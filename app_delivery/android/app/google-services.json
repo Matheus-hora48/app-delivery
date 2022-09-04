@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "971447080296",
+    "project_id": "deliveryflutter-e7bc7",
+    "storage_bucket": "deliveryflutter-e7bc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:971447080296:android:89e398357548cfeef272dd",
+        "android_client_info": {
+          "package_name": "br.com.hora.delivery.app_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "971447080296-o1osi96juta0uutd0j94jh47uv0db6u1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhqgK-OrrJqvEX9kLhDk7E0jv-6jW5Oy4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "971447080296-o1osi96juta0uutd0j94jh47uv0db6u1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
