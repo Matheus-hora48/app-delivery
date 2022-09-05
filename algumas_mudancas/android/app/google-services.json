@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "178353048065",
+    "project_id": "deliveyteste",
+    "storage_bucket": "deliveyteste.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178353048065:android:ce3f219e6c0369799d8e00",
+        "android_client_info": {
+          "package_name": "br.com.deliveryapp.algumas_mudancas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "178353048065-user4okes74fdf4fmcb4812kkim49mgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7g6VCy-HpxeXlr87kwHea7N_110Ga6Nk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "178353048065-user4okes74fdf4fmcb4812kkim49mgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
