@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "433569546625",
+    "project_id": "fazendotestedelivery",
+    "storage_bucket": "fazendotestedelivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433569546625:android:486a467ac1bfe947b76880",
+        "android_client_info": {
+          "package_name": "br.com.meupacote.fazendo_testes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433569546625-4h1q62tbcflv3rugjj9rehfi5lmo4kqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYsOpdMi_wnD6VKSOxj24WPQ1OW17V7ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433569546625-4h1q62tbcflv3rugjj9rehfi5lmo4kqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
